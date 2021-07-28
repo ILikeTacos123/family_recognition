@@ -1,0 +1,11 @@
+body{
+    background-color: cyan;
+    color: deeppink;
+    font-weight: bold;
+}
+
+#webcam{
+    width: 300px;
+    height: 300px;
+    border: 3px solid deeppink;
+}
